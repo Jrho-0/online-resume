@@ -29,5 +29,4 @@
 9. Add a footer element with your name and any copyright information or other disclaimers. (Hint: use the MDN docs for things you don't know how to do: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)) 
 10. Save the index.html file and open it in a web browser to ensure that it displays correctly.
 
-11. Add your website to your GitHub to start building your portfolio.
 
